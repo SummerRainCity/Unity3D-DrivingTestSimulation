@@ -4,7 +4,7 @@
 #### Introduction
  - Project Name:Simulated Driving 2
  - Start time: ‎October 26, 2020
- - The author:Alan21
+ - Author:Alan21
  - Operating platform:Android system | PC
  - Unity3D version:[Unity 2019.4.13f1c1 (64-bit)](https://unity.cn/releases/full/2019)
  - Libraries used:iTween
@@ -12,8 +12,8 @@
 
 #### 基本信息
  - 项目名称：模拟驾驶二
- - 项目启动：‎2020‎年‎10‎月‎26‎日
- - 作者：AlanLW
+ - 项目起始：‎2020‎年‎10‎月‎26‎日
+ - 作者：Alan21
  - 运行平台：Android移动端 | PC
  - 开发环境：[Unity 2019.4.13f1c1 (64-bit)](https://unity.cn/releases/full/2019)
  - 使用的库：iTween
