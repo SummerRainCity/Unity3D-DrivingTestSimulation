@@ -3,13 +3,13 @@
  Unity3D Project, subject two, simulated driving test
  
 #### Introduction
-Project Name:Simulated Driving 2
-Start time: ‎October 26, 2020
-The author:Alan21
-Operating platform:Android system | PC
-Unity3D version:[Unity 2019.4.13f1c1 (64-bit)](https://unity.cn/releases/full/2019)
-Libraries used:iTween
-External tools:FFmpeg
+Project Name:Simulated Driving 2.
+Start time: ‎October 26, 2020.
+The author:Alan21.
+Operating platform:Android system | PC.
+Unity3D version:[Unity 2019.4.13f1c1 (64-bit)](https://unity.cn/releases/full/2019).
+Libraries used:iTween.
+External tools:FFmpeg.
 
 #### 基本信息
 项目名称：模拟驾驶二
