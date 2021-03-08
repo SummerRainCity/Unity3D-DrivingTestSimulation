@@ -1,0 +1,935 @@
+fileFormatVersion: 2
+guid: f0783dff9be367d46b12b1755fc86c6c
+timeCreated: 1538657108
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Head
+    100006: Bip001 HeadNub
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger01
+    100016: Bip001 L Finger02
+    100018: Bip001 L Finger0Nub
+    100020: Bip001 L Finger1
+    100022: Bip001 L Finger11
+    100024: Bip001 L Finger12
+    100026: Bip001 L Finger1Nub
+    100028: Bip001 L Foot
+    100030: Bip001 L Forearm
+    100032: Bip001 L Hand
+    100034: Bip001 L Thigh
+    100036: Bip001 L Toe0
+    100038: Bip001 L Toe0Nub
+    100040: Bip001 L UpperArm
+    100042: Bip001 Neck
+    100044: Bip001 Pelvis
+    100046: Bip001 R Calf
+    100048: Bip001 R Clavicle
+    100050: Bip001 R Finger0
+    100052: Bip001 R Finger01
+    100054: Bip001 R Finger02
+    100056: Bip001 R Finger0Nub
+    100058: Bip001 R Finger1
+    100060: Bip001 R Finger11
+    100062: Bip001 R Finger12
+    100064: Bip001 R Finger1Nub
+    100066: Bip001 R Foot
+    100068: Bip001 R Forearm
+    100070: Bip001 R Hand
+    100072: Bip001 R Thigh
+    100074: Bip001 R Toe0
+    100076: Bip001 R Toe0Nub
+    100078: Bip001 R UpperArm
+    100080: Bip001 Spine
+    100082: Bip001 Spine1
+    100084: Body_LOD0
+    100086: Body_LOD1
+    100088: Body_LOD2
+    100090: Body_LOD3
+    100092: BrakeFrontLeft_LOD0
+    100094: BrakeFrontLeft_LOD1
+    100096: BrakeFrontLeft_LOD2
+    100098: BrakeFrontRight_LOD0
+    100100: BrakeFrontRight_LOD1
+    100102: BrakeFrontRight_LOD2
+    100104: BrakeLights_LOD0
+    100106: BrakeLights_LOD1
+    100108: BrakeLights_LOD2
+    100110: BrakeLights_LOD3
+    100112: BrakeRearLeft_LOD0
+    100114: BrakeRearLeft_LOD1
+    100116: BrakeRearLeft_LOD2
+    100118: BrakeRearRight_LOD0
+    100120: BrakeRearRight_LOD1
+    100122: BrakeRearRight_LOD2
+    100124: Civil01_LOD0
+    100126: Civil01_LOD1
+    100128: Civil01_LOD2
+    100130: //RootNode
+    100132: CivilianVehicle05_Col
+    100134: DayTimeLight_LOD0
+    100136: DayTimeLight_LOD1
+    100138: DayTimeLight_LOD2
+    100140: DayTimeLight_LOD3
+    100142: FogLight_LOD0
+    100144: FogLight_LOD1
+    100146: FogLight_LOD2
+    100148: FogLight_LOD3
+    100150: Interior_LOD0
+    100152: Interior_LOD1
+    100154: Interior_LOD2
+    100156: Interior_LOD3
+    100158: Light_LOD0
+    100160: Light_LOD1
+    100162: Light_LOD2
+    100164: Light_LOD3
+    100166: LOD0
+    100168: LOD1
+    100170: LOD2
+    100172: LOD3
+    100174: MainLight_LOD0
+    100176: MainLight_LOD1
+    100178: MainLight_LOD2
+    100180: MainLight_LOD3
+    100182: Paint_LOD0
+    100184: Paint_LOD1
+    100186: Paint_LOD2
+    100188: Paint_LOD3
+    100190: PlateBackTypeEU_LOD0
+    100192: PlateBackTypeEU_LOD1
+    100194: PlateBackTypeEU_LOD2
+    100196: PlateBackTypeUSA_LOD0
+    100198: PlateBackTypeUSA_LOD1
+    100200: PlateBackTypeUSA_LOD2
+    100202: PlateFrontTypeEU_LOD0
+    100204: PlateFrontTypeEU_LOD1
+    100206: PlateFrontTypeEU_LOD2
+    100208: PlateFrontTypeUSA_LOD0
+    100210: PlateFrontTypeUSA_LOD1
+    100212: PlateFrontTypeUSA_LOD2
+    100214: RearSideLight_LOD0
+    100216: RearSideLight_LOD1
+    100218: RearSideLight_LOD2
+    100220: RearSideLight_LOD3
+    100222: ReverseLight_LOD0
+    100224: ReverseLight_LOD1
+    100226: ReverseLight_LOD2
+    100228: ReverseLight_LOD3
+    100230: SteeringWheel
+    100232: SteeringWheel_LOD0
+    100234: SteeringWheel_LOD1
+    100236: SteeringWheel_LOD2
+    100238: TurnSignalLeft_LOD0
+    100240: TurnSignalLeft_LOD1
+    100242: TurnSignalLeft_LOD2
+    100244: TurnSignalLeft_LOD3
+    100246: TurnSignalRight_LOD0
+    100248: TurnSignalRight_LOD1
+    100250: TurnSignalRight_LOD2
+    100252: TurnSignalRight_LOD3
+    100254: WheelFrontLeft_LOD0
+    100256: WheelFrontLeft_LOD1
+    100258: WheelFrontLeft_LOD2
+    100260: WheelFrontLeft_LOD3
+    100262: WheelFrontRight_LOD0
+    100264: WheelFrontRight_LOD1
+    100266: WheelFrontRight_LOD2
+    100268: WheelFrontRight_LOD3
+    100270: WheelRearLeft_LOD0
+    100272: WheelRearLeft_LOD1
+    100274: WheelRearLeft_LOD2
+    100276: WheelRearLeft_LOD3
+    100278: WheelRearRight_LOD0
+    100280: WheelRearRight_LOD1
+    100282: WheelRearRight_LOD2
+    100284: WheelRearRight_LOD3
+    100286: Windows_LOD0
+    100288: Windows_LOD1
+    100290: Windows_LOD2
+    100292: Windows_LOD3
+    100294: WipersLeft_LOD0
+    100296: WipersLeft_LOD1
+    100298: WipersLeft_LOD2
+    100300: WipersRight_LOD0
+    100302: WipersRight_LOD1
+    100304: WipersRight_LOD2
+    100306: ' Finger12'
+    100308: ' Toe0Nub'
+    100310: Footsteps
+    100312: Head
+    100314: HeadNub
+    100316: LCalf
+    100318: LClavicle
+    100320: LFinger0
+    100322: LFinger01
+    100324: LFinger02
+    100326: LFinger0Nub
+    100328: LFinger1
+    100330: LFinger11
+    100332: LFinger1Nub
+    100334: LFoot
+    100336: LForearm
+    100338: LHand
+    100340: LThigh
+    100342: LToe0
+    100344: LToe0Nub
+    100346: LUpperArm
+    100348: Neck
+    100350: Pelvis
+    100352: RCalf
+    100354: RClavicle
+    100356: RFinger0
+    100358: RFinger01
+    100360: RFinger02
+    100362: RFinger0Nub
+    100364: RFinger1
+    100366: RFinger11
+    100368: RFinger12
+    100370: RFinger1Nub
+    100372: RFoot
+    100374: RForearm
+    100376: RHand
+    100378: RThigh
+    100380: RToe0
+    100382: RUpperArm
+    100384: Spine
+    100386: Spine1
+    100388: SkeletonCivil01
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Head
+    400006: Bip001 HeadNub
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger01
+    400016: Bip001 L Finger02
+    400018: Bip001 L Finger0Nub
+    400020: Bip001 L Finger1
+    400022: Bip001 L Finger11
+    400024: Bip001 L Finger12
+    400026: Bip001 L Finger1Nub
+    400028: Bip001 L Foot
+    400030: Bip001 L Forearm
+    400032: Bip001 L Hand
+    400034: Bip001 L Thigh
+    400036: Bip001 L Toe0
+    400038: Bip001 L Toe0Nub
+    400040: Bip001 L UpperArm
+    400042: Bip001 Neck
+    400044: Bip001 Pelvis
+    400046: Bip001 R Calf
+    400048: Bip001 R Clavicle
+    400050: Bip001 R Finger0
+    400052: Bip001 R Finger01
+    400054: Bip001 R Finger02
+    400056: Bip001 R Finger0Nub
+    400058: Bip001 R Finger1
+    400060: Bip001 R Finger11
+    400062: Bip001 R Finger12
+    400064: Bip001 R Finger1Nub
+    400066: Bip001 R Foot
+    400068: Bip001 R Forearm
+    400070: Bip001 R Hand
+    400072: Bip001 R Thigh
+    400074: Bip001 R Toe0
+    400076: Bip001 R Toe0Nub
+    400078: Bip001 R UpperArm
+    400080: Bip001 Spine
+    400082: Bip001 Spine1
+    400084: Body_LOD0
+    400086: Body_LOD1
+    400088: Body_LOD2
+    400090: Body_LOD3
+    400092: BrakeFrontLeft_LOD0
+    400094: BrakeFrontLeft_LOD1
+    400096: BrakeFrontLeft_LOD2
+    400098: BrakeFrontRight_LOD0
+    400100: BrakeFrontRight_LOD1
+    400102: BrakeFrontRight_LOD2
+    400104: BrakeLights_LOD0
+    400106: BrakeLights_LOD1
+    400108: BrakeLights_LOD2
+    400110: BrakeLights_LOD3
+    400112: BrakeRearLeft_LOD0
+    400114: BrakeRearLeft_LOD1
+    400116: BrakeRearLeft_LOD2
+    400118: BrakeRearRight_LOD0
+    400120: BrakeRearRight_LOD1
+    400122: BrakeRearRight_LOD2
+    400124: Civil01_LOD0
+    400126: Civil01_LOD1
+    400128: Civil01_LOD2
+    400130: //RootNode
+    400132: CivilianVehicle05_Col
+    400134: DayTimeLight_LOD0
+    400136: DayTimeLight_LOD1
+    400138: DayTimeLight_LOD2
+    400140: DayTimeLight_LOD3
+    400142: FogLight_LOD0
+    400144: FogLight_LOD1
+    400146: FogLight_LOD2
+    400148: FogLight_LOD3
+    400150: Interior_LOD0
+    400152: Interior_LOD1
+    400154: Interior_LOD2
+    400156: Interior_LOD3
+    400158: Light_LOD0
+    400160: Light_LOD1
+    400162: Light_LOD2
+    400164: Light_LOD3
+    400166: LOD0
+    400168: LOD1
+    400170: LOD2
+    400172: LOD3
+    400174: MainLight_LOD0
+    400176: MainLight_LOD1
+    400178: MainLight_LOD2
+    400180: MainLight_LOD3
+    400182: Paint_LOD0
+    400184: Paint_LOD1
+    400186: Paint_LOD2
+    400188: Paint_LOD3
+    400190: PlateBackTypeEU_LOD0
+    400192: PlateBackTypeEU_LOD1
+    400194: PlateBackTypeEU_LOD2
+    400196: PlateBackTypeUSA_LOD0
+    400198: PlateBackTypeUSA_LOD1
+    400200: PlateBackTypeUSA_LOD2
+    400202: PlateFrontTypeEU_LOD0
+    400204: PlateFrontTypeEU_LOD1
+    400206: PlateFrontTypeEU_LOD2
+    400208: PlateFrontTypeUSA_LOD0
+    400210: PlateFrontTypeUSA_LOD1
+    400212: PlateFrontTypeUSA_LOD2
+    400214: RearSideLight_LOD0
+    400216: RearSideLight_LOD1
+    400218: RearSideLight_LOD2
+    400220: RearSideLight_LOD3
+    400222: ReverseLight_LOD0
+    400224: ReverseLight_LOD1
+    400226: ReverseLight_LOD2
+    400228: ReverseLight_LOD3
+    400230: SteeringWheel
+    400232: SteeringWheel_LOD0
+    400234: SteeringWheel_LOD1
+    400236: SteeringWheel_LOD2
+    400238: TurnSignalLeft_LOD0
+    400240: TurnSignalLeft_LOD1
+    400242: TurnSignalLeft_LOD2
+    400244: TurnSignalLeft_LOD3
+    400246: TurnSignalRight_LOD0
+    400248: TurnSignalRight_LOD1
+    400250: TurnSignalRight_LOD2
+    400252: TurnSignalRight_LOD3
+    400254: WheelFrontLeft_LOD0
+    400256: WheelFrontLeft_LOD1
+    400258: WheelFrontLeft_LOD2
+    400260: WheelFrontLeft_LOD3
+    400262: WheelFrontRight_LOD0
+    400264: WheelFrontRight_LOD1
+    400266: WheelFrontRight_LOD2
+    400268: WheelFrontRight_LOD3
+    400270: WheelRearLeft_LOD0
+    400272: WheelRearLeft_LOD1
+    400274: WheelRearLeft_LOD2
+    400276: WheelRearLeft_LOD3
+    400278: WheelRearRight_LOD0
+    400280: WheelRearRight_LOD1
+    400282: WheelRearRight_LOD2
+    400284: WheelRearRight_LOD3
+    400286: Windows_LOD0
+    400288: Windows_LOD1
+    400290: Windows_LOD2
+    400292: Windows_LOD3
+    400294: WipersLeft_LOD0
+    400296: WipersLeft_LOD1
+    400298: WipersLeft_LOD2
+    400300: WipersRight_LOD0
+    400302: WipersRight_LOD1
+    400304: WipersRight_LOD2
+    400306: ' Finger12'
+    400308: ' Toe0Nub'
+    400310: Footsteps
+    400312: Head
+    400314: HeadNub
+    400316: LCalf
+    400318: LClavicle
+    400320: LFinger0
+    400322: LFinger01
+    400324: LFinger02
+    400326: LFinger0Nub
+    400328: LFinger1
+    400330: LFinger11
+    400332: LFinger1Nub
+    400334: LFoot
+    400336: LForearm
+    400338: LHand
+    400340: LThigh
+    400342: LToe0
+    400344: LToe0Nub
+    400346: LUpperArm
+    400348: Neck
+    400350: Pelvis
+    400352: RCalf
+    400354: RClavicle
+    400356: RFinger0
+    400358: RFinger01
+    400360: RFinger02
+    400362: RFinger0Nub
+    400364: RFinger1
+    400366: RFinger11
+    400368: RFinger12
+    400370: RFinger1Nub
+    400372: RFoot
+    400374: RForearm
+    400376: RHand
+    400378: RThigh
+    400380: RToe0
+    400382: RUpperArm
+    400384: Spine
+    400386: Spine1
+    400388: SkeletonCivil01
+    2300000: Body_LOD0
+    2300002: Body_LOD1
+    2300004: Body_LOD2
+    2300006: Body_LOD3
+    2300008: BrakeFrontLeft_LOD0
+    2300010: BrakeFrontLeft_LOD1
+    2300012: BrakeFrontLeft_LOD2
+    2300014: BrakeFrontRight_LOD0
+    2300016: BrakeFrontRight_LOD1
+    2300018: BrakeFrontRight_LOD2
+    2300020: BrakeLights_LOD0
+    2300022: BrakeLights_LOD1
+    2300024: BrakeLights_LOD2
+    2300026: BrakeLights_LOD3
+    2300028: BrakeRearLeft_LOD0
+    2300030: BrakeRearLeft_LOD1
+    2300032: BrakeRearLeft_LOD2
+    2300034: BrakeRearRight_LOD0
+    2300036: BrakeRearRight_LOD1
+    2300038: BrakeRearRight_LOD2
+    2300040: CivilianVehicle05_Col
+    2300042: DayTimeLight_LOD0
+    2300044: DayTimeLight_LOD1
+    2300046: DayTimeLight_LOD2
+    2300048: DayTimeLight_LOD3
+    2300050: FogLight_LOD0
+    2300052: FogLight_LOD1
+    2300054: FogLight_LOD2
+    2300056: FogLight_LOD3
+    2300058: Interior_LOD0
+    2300060: Interior_LOD1
+    2300062: Interior_LOD2
+    2300064: Interior_LOD3
+    2300066: Light_LOD0
+    2300068: Light_LOD1
+    2300070: Light_LOD2
+    2300072: Light_LOD3
+    2300074: MainLight_LOD0
+    2300076: MainLight_LOD1
+    2300078: MainLight_LOD2
+    2300080: MainLight_LOD3
+    2300082: Paint_LOD0
+    2300084: Paint_LOD1
+    2300086: Paint_LOD2
+    2300088: Paint_LOD3
+    2300090: PlateBackTypeEU_LOD0
+    2300092: PlateBackTypeEU_LOD1
+    2300094: PlateBackTypeEU_LOD2
+    2300096: PlateBackTypeUSA_LOD0
+    2300098: PlateBackTypeUSA_LOD1
+    2300100: PlateBackTypeUSA_LOD2
+    2300102: PlateFrontTypeEU_LOD0
+    2300104: PlateFrontTypeEU_LOD1
+    2300106: PlateFrontTypeEU_LOD2
+    2300108: PlateFrontTypeUSA_LOD0
+    2300110: PlateFrontTypeUSA_LOD1
+    2300112: PlateFrontTypeUSA_LOD2
+    2300114: RearSideLight_LOD0
+    2300116: RearSideLight_LOD1
+    2300118: RearSideLight_LOD2
+    2300120: RearSideLight_LOD3
+    2300122: ReverseLight_LOD0
+    2300124: ReverseLight_LOD1
+    2300126: ReverseLight_LOD2
+    2300128: ReverseLight_LOD3
+    2300130: SteeringWheel_LOD0
+    2300132: SteeringWheel_LOD1
+    2300134: SteeringWheel_LOD2
+    2300136: TurnSignalLeft_LOD0
+    2300138: TurnSignalLeft_LOD1
+    2300140: TurnSignalLeft_LOD2
+    2300142: TurnSignalLeft_LOD3
+    2300144: TurnSignalRight_LOD0
+    2300146: TurnSignalRight_LOD1
+    2300148: TurnSignalRight_LOD2
+    2300150: TurnSignalRight_LOD3
+    2300152: WheelFrontLeft_LOD0
+    2300154: WheelFrontLeft_LOD1
+    2300156: WheelFrontLeft_LOD2
+    2300158: WheelFrontLeft_LOD3
+    2300160: WheelFrontRight_LOD0
+    2300162: WheelFrontRight_LOD1
+    2300164: WheelFrontRight_LOD2
+    2300166: WheelFrontRight_LOD3
+    2300168: WheelRearLeft_LOD0
+    2300170: WheelRearLeft_LOD1
+    2300172: WheelRearLeft_LOD2
+    2300174: WheelRearLeft_LOD3
+    2300176: WheelRearRight_LOD0
+    2300178: WheelRearRight_LOD1
+    2300180: WheelRearRight_LOD2
+    2300182: WheelRearRight_LOD3
+    2300184: Windows_LOD0
+    2300186: Windows_LOD1
+    2300188: Windows_LOD2
+    2300190: Windows_LOD3
+    2300192: WipersLeft_LOD0
+    2300194: WipersLeft_LOD1
+    2300196: WipersLeft_LOD2
+    2300198: WipersRight_LOD0
+    2300200: WipersRight_LOD1
+    2300202: WipersRight_LOD2
+    3300000: Body_LOD0
+    3300002: Body_LOD1
+    3300004: Body_LOD2
+    3300006: Body_LOD3
+    3300008: BrakeFrontLeft_LOD0
+    3300010: BrakeFrontLeft_LOD1
+    3300012: BrakeFrontLeft_LOD2
+    3300014: BrakeFrontRight_LOD0
+    3300016: BrakeFrontRight_LOD1
+    3300018: BrakeFrontRight_LOD2
+    3300020: BrakeLights_LOD0
+    3300022: BrakeLights_LOD1
+    3300024: BrakeLights_LOD2
+    3300026: BrakeLights_LOD3
+    3300028: BrakeRearLeft_LOD0
+    3300030: BrakeRearLeft_LOD1
+    3300032: BrakeRearLeft_LOD2
+    3300034: BrakeRearRight_LOD0
+    3300036: BrakeRearRight_LOD1
+    3300038: BrakeRearRight_LOD2
+    3300040: CivilianVehicle05_Col
+    3300042: DayTimeLight_LOD0
+    3300044: DayTimeLight_LOD1
+    3300046: DayTimeLight_LOD2
+    3300048: DayTimeLight_LOD3
+    3300050: FogLight_LOD0
+    3300052: FogLight_LOD1
+    3300054: FogLight_LOD2
+    3300056: FogLight_LOD3
+    3300058: Interior_LOD0
+    3300060: Interior_LOD1
+    3300062: Interior_LOD2
+    3300064: Interior_LOD3
+    3300066: Light_LOD0
+    3300068: Light_LOD1
+    3300070: Light_LOD2
+    3300072: Light_LOD3
+    3300074: MainLight_LOD0
+    3300076: MainLight_LOD1
+    3300078: MainLight_LOD2
+    3300080: MainLight_LOD3
+    3300082: Paint_LOD0
+    3300084: Paint_LOD1
+    3300086: Paint_LOD2
+    3300088: Paint_LOD3
+    3300090: PlateBackTypeEU_LOD0
+    3300092: PlateBackTypeEU_LOD1
+    3300094: PlateBackTypeEU_LOD2
+    3300096: PlateBackTypeUSA_LOD0
+    3300098: PlateBackTypeUSA_LOD1
+    3300100: PlateBackTypeUSA_LOD2
+    3300102: PlateFrontTypeEU_LOD0
+    3300104: PlateFrontTypeEU_LOD1
+    3300106: PlateFrontTypeEU_LOD2
+    3300108: PlateFrontTypeUSA_LOD0
+    3300110: PlateFrontTypeUSA_LOD1
+    3300112: PlateFrontTypeUSA_LOD2
+    3300114: RearSideLight_LOD0
+    3300116: RearSideLight_LOD1
+    3300118: RearSideLight_LOD2
+    3300120: RearSideLight_LOD3
+    3300122: ReverseLight_LOD0
+    3300124: ReverseLight_LOD1
+    3300126: ReverseLight_LOD2
+    3300128: ReverseLight_LOD3
+    3300130: SteeringWheel_LOD0
+    3300132: SteeringWheel_LOD1
+    3300134: SteeringWheel_LOD2
+    3300136: TurnSignalLeft_LOD0
+    3300138: TurnSignalLeft_LOD1
+    3300140: TurnSignalLeft_LOD2
+    3300142: TurnSignalLeft_LOD3
+    3300144: TurnSignalRight_LOD0
+    3300146: TurnSignalRight_LOD1
+    3300148: TurnSignalRight_LOD2
+    3300150: TurnSignalRight_LOD3
+    3300152: WheelFrontLeft_LOD0
+    3300154: WheelFrontLeft_LOD1
+    3300156: WheelFrontLeft_LOD2
+    3300158: WheelFrontLeft_LOD3
+    3300160: WheelFrontRight_LOD0
+    3300162: WheelFrontRight_LOD1
+    3300164: WheelFrontRight_LOD2
+    3300166: WheelFrontRight_LOD3
+    3300168: WheelRearLeft_LOD0
+    3300170: WheelRearLeft_LOD1
+    3300172: WheelRearLeft_LOD2
+    3300174: WheelRearLeft_LOD3
+    3300176: WheelRearRight_LOD0
+    3300178: WheelRearRight_LOD1
+    3300180: WheelRearRight_LOD2
+    3300182: WheelRearRight_LOD3
+    3300184: Windows_LOD0
+    3300186: Windows_LOD1
+    3300188: Windows_LOD2
+    3300190: Windows_LOD3
+    3300192: WipersLeft_LOD0
+    3300194: WipersLeft_LOD1
+    3300196: WipersLeft_LOD2
+    3300198: WipersRight_LOD0
+    3300200: WipersRight_LOD1
+    3300202: WipersRight_LOD2
+    4300000: Windows_LOD0
+    4300002: Light_LOD0
+    4300004: TurnSignalLeft_LOD0
+    4300006: ReverseLight_LOD0
+    4300008: BrakeLights_LOD0
+    4300010: RearSideLight_LOD0
+    4300012: MainLight_LOD0
+    4300014: DayTimeLight_LOD0
+    4300016: FogLight_LOD0
+    4300018: TurnSignalRight_LOD0
+    4300020: Body_LOD0
+    4300022: Interior_LOD0
+    4300024: Paint_LOD0
+    4300026: PlateFrontTypeEU_LOD0
+    4300028: PlateBackTypeUSA_LOD0
+    4300030: PlateBackTypeEU_LOD0
+    4300032: PlateFrontTypeUSA_LOD0
+    4300034: WipersRight_LOD0
+    4300036: WipersLeft_LOD0
+    4300038: WheelRearRight_LOD0
+    4300040: BrakeRearRight_LOD0
+    4300042: WheelFrontRight_LOD0
+    4300044: BrakeFrontRight_LOD0
+    4300046: WheelRearLeft_LOD0
+    4300048: BrakeRearLeft_LOD0
+    4300050: WheelFrontLeft_LOD0
+    4300052: BrakeFrontLeft_LOD0
+    4300054: SteeringWheel_LOD0
+    4300056: Civil01_LOD0
+    4300058: Windows_LOD1
+    4300060: Light_LOD1
+    4300062: TurnSignalLeft_LOD1
+    4300064: ReverseLight_LOD1
+    4300066: BrakeLights_LOD1
+    4300068: RearSideLight_LOD1
+    4300070: MainLight_LOD1
+    4300072: DayTimeLight_LOD1
+    4300074: FogLight_LOD1
+    4300076: TurnSignalRight_LOD1
+    4300078: Body_LOD1
+    4300080: Paint_LOD1
+    4300082: PlateFrontTypeEU_LOD1
+    4300084: PlateBackTypeUSA_LOD1
+    4300086: PlateBackTypeEU_LOD1
+    4300088: PlateFrontTypeUSA_LOD1
+    4300090: WipersRight_LOD1
+    4300092: WipersLeft_LOD1
+    4300094: WheelRearRight_LOD1
+    4300096: WheelFrontRight_LOD1
+    4300098: WheelRearLeft_LOD1
+    4300100: WheelFrontLeft_LOD1
+    4300102: BrakeRearLeft_LOD1
+    4300104: BrakeFrontLeft_LOD1
+    4300106: BrakeFrontRight_LOD1
+    4300108: BrakeRearRight_LOD1
+    4300110: SteeringWheel_LOD1
+    4300112: Interior_LOD1
+    4300114: Civil01_LOD1
+    4300116: Light_LOD2
+    4300118: TurnSignalLeft_LOD2
+    4300120: ReverseLight_LOD2
+    4300122: RearSideLight_LOD2
+    4300124: BrakeLights_LOD2
+    4300126: MainLight_LOD2
+    4300128: FogLight_LOD2
+    4300130: DayTimeLight_LOD2
+    4300132: TurnSignalRight_LOD2
+    4300134: PlateFrontTypeEU_LOD2
+    4300136: PlateBackTypeUSA_LOD2
+    4300138: PlateBackTypeEU_LOD2
+    4300140: PlateFrontTypeUSA_LOD2
+    4300142: WheelRearRight_LOD2
+    4300144: WheelFrontRight_LOD2
+    4300146: WheelRearLeft_LOD2
+    4300148: WheelFrontLeft_LOD2
+    4300150: BrakeRearRight_LOD2
+    4300152: BrakeFrontRight_LOD2
+    4300154: BrakeFrontLeft_LOD2
+    4300156: BrakeRearLeft_LOD2
+    4300158: Windows_LOD2
+    4300160: WipersLeft_LOD2
+    4300162: WipersRight_LOD2
+    4300164: SteeringWheel_LOD2
+    4300166: Interior_LOD2
+    4300168: Paint_LOD2
+    4300170: Body_LOD2
+    4300172: Civil01_LOD2
+    4300174: Light_LOD3
+    4300176: TurnSignalLeft_LOD3
+    4300178: ReverseLight_LOD3
+    4300180: RearSideLight_LOD3
+    4300182: BrakeLights_LOD3
+    4300184: MainLight_LOD3
+    4300186: FogLight_LOD3
+    4300188: DayTimeLight_LOD3
+    4300190: TurnSignalRight_LOD3
+    4300192: WheelRearRight_LOD3
+    4300194: WheelFrontRight_LOD3
+    4300196: WheelRearLeft_LOD3
+    4300198: WheelFrontLeft_LOD3
+    4300200: Interior_LOD3
+    4300202: Windows_LOD3
+    4300204: Paint_LOD3
+    4300206: Body_LOD3
+    4300208: CivilianVehicle05_Col
+    7400000: Take 001
+    7400002: LeftBack
+    7400004: Right
+    7400006: RightBack
+    7400008: Default
+    9500000: //RootNode
+    13700000: Civil01_LOD0
+    13700002: Civil01_LOD1
+    13700004: Civil01_LOD2
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: LeftBack
+      takeName: Take 001
+      firstFrame: 15
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Right
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: RightBack
+      takeName: Take 001
+      firstFrame: 45
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Default
+      takeName: Take 001
+      firstFrame: 61
+      lastFrame: 97
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

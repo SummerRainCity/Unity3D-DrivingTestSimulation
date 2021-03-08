@@ -1,0 +1,15 @@
+newmtl ParkingMat
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\FotoCars\ParkingLot\Parking01.png
+illum 2
+
+newmtl ConcreteMat
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\FotoCars\ParkingLot\RoadConcrete01_512.png
+illum 2
+
+newmtl GrassMat
+Kd 0.9561527 0.9576669 0.9632353
+map_Kd C:\Prog\Data\Projects\FotoCars\ParkingLot\Grass01.png
+illum 2
+

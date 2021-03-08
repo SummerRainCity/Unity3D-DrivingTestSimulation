@@ -1,0 +1,22 @@
+FotoCars - Free Sample
+
+low poly photorealistic cars to populate parking lots, streets and highways with.
+
+Main features
+- Two LODs. Full model with separate wheels (500 – 600 triangles) and “Box” model with just 60 – 100 triangles. Premade prefabs with LOD groups setup.
+- Single mesh variant of full model to make static cars even less resource demanding.
+- An optional simple 2 triangle mesh shadow bellow the car. The ultimate low resource shadow solution.
+- One texture/material per model.
+- Two texture variants. The first is of a static car. The second one has the wheel “Smudged” by rotation. You can tell the smudged variant by a capital S at the end of its name.
+- Five different premade prefabs differing mainly in shadow solution. Unity, projected, simple mesh, single mesh and box.
+- Meshes in FBX format in Box, Full separate (W) and Full single mesh (1m) variants.
+- Textures are 1024x1024. Two per color, static and smudged (S) variants. Bumped and Metallic textures included.
+- Materials subfolder with many variants for different shaders.
+- Prefabs subfolder with many prefabs for colors, shaders and shadow types.
+
+I hope you find the FotoCars useful. Enjoy.
+Kajaman
+kajamansup@gmail.com
+http://kajaman.is-best.net
+
+
