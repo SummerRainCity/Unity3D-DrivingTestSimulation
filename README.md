@@ -10,8 +10,8 @@
  - Unity3D version: [Unity 2019.4.13f1c1 (64-bit)](https://unity.cn/releases/full/2019)
  - Libraries used: iTween
  - External tools: FFmpeg
- - Explain: The beginner’s project may not be perfect, but I hope this project will help you a bit.
  - Demo address: [Video](https://www.bilibili.com/video/bv1hK4y1Q79G)
+ - Explain: The beginner’s project may not be perfect, but I hope this project will help you a bit.
 
 #### 设置项目：
  1. 倒车入库（3步骤+时间限制210s+压线检测+中途停车检测）
