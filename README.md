@@ -9,28 +9,19 @@
  - Unity3D version: [Unity 2019.4.13f1c1 (64-bit)](https://unity.cn/releases/full/2019)
  - Libraries used: iTween
  - External tools: FFmpeg
-
-#### 基本信息
- - 项目名称：模拟驾驶二
- - 项目起始：‎2020‎年‎10‎月‎26‎日
- - 作者：Alan21
- - 运行平台：移动端 | PC
- - 开发环境：[Unity 2019.4.13f1c1 (64-bit)](https://unity.cn/releases/full/2019)
- - 使用的库：iTween
- - 外部使用工具：FFmpeg
+ - Explain: The beginner’s project may not be perfect, but I hope this project will help you a bit.
 
 #### 设置项目：
- 1. 倒车入库
- 3. 侧方停车　　
- 4. 半坡起步　　
- 5. 直角转弯　　
- 6. 曲线行驶
+ 1. 倒车入库（3步骤+时间限制210s+压线检测+中途停车检测）
+ 3. 侧方停车（2步骤+时间限制90s+压线检测+中途停车检测）　　
+ 4. 半坡起步（1步骤+时间限制30s+压线检测+中途停车检测）
+ 5. 直角转弯（2步骤+时间限制30s+压线检测+中途停车检测）
+ 6. 曲线行驶（1步骤+中途停车检测）
  
 #### 更新：
  1. 方向盘不同机型转动轴心偏离（2021-1-17） 
  2. 加入了手刹系统（2021-2-18）
 
 #### 未完善：
-
- 1. 没有设置边界空气墙
+ 1. 某些项目没有设置边界空气墙，玩家可以绕过项目到达终点
  2. “曲线行驶”没有设定压线检测
