@@ -16,7 +16,7 @@ namespace Replay
 {
     public class ReplayManager : MonoBehaviour
     {
-        public int recordRate = 120;
+        public int recordRate = 30;//源代码数值：120
         public bool isRecording = false;
         public bool isPlaying = false;
         [Tooltip("当前实例对象（自动赋值）")]
