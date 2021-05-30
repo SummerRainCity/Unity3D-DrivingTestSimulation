@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine.UI;
 using UnityEngine;
 
+//直角转弯实时监测脚本
 public class Det_ZJZW : MonoBehaviour
 {
     [Tooltip("中途停车扣分时间间隔")]
