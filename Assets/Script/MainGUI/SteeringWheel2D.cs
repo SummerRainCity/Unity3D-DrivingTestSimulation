@@ -5,8 +5,6 @@ using UnityEngine.Events;
 using System.Collections;
 
 /// <summary>
-/// 说明：此方向盘控制代码源于TB，当前建议使用！
-/// 
 /// Steering wheel.
 /// Defines the steerign wheel behaviour.
 /// Original source:
