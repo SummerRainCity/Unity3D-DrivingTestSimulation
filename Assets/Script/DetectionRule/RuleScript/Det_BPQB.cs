@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine.UI;
 using UnityEngine;
 
+//半坡起步实时监测脚本
 public class Det_BPQB : MonoBehaviour
 {
     [Header("前后保险杠检测")]
