@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /*
- * 【车身压线检测】
- * 扣100分
+ * 车身抗线扣100分，划线部分将建立空气墙，然后挂上此脚本
  */
 public class Wall : MonoBehaviour
 {
