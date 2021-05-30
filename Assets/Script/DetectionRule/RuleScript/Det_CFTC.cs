@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine.UI;
 using UnityEngine;
 
+//侧方位停车实时监测脚本
 public class Det_CFTC : MonoBehaviour
 {
     public float JuLi = 0;
