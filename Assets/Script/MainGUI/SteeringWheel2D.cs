@@ -120,7 +120,7 @@ public class SteeringWheel2D : MonoBehaviour
         //centerPoint = new Vector2(_rect.x + _rect.width * 0.5f, _rect.y - _rect.height * 0.5f);//源代码
 
         //修正代码：
-        //  你需要注意，其实下面的是不必要的，这里是为了防止下面_rect赋值出现问题。
+        //  你需要注意，其实下面的是不必要的，这里是为了防止下面_rect赋值出现偶然问题。
         centerPoint = new Vector2(180, 180);
         centerPoint.x = _rect.x + _rect.width * 0.5f;
         centerPoint.y = _rect.y - _rect.height * 0.5f;
