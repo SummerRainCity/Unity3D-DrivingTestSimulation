@@ -21,7 +21,7 @@
  1. 加入了手刹系统
 
  - 更新时间-2021-6-19（待同步）
- 1. 解决了REC回放下偶然出现的物体回放错位BUG（ReplayEntity.cs）
+ 1. 解决了PC端在REC回放下偶然出现的物体回放错位BUG（ReplayEntity.cs将简称为Re.cs，每一个挂Re.cs的脚本都将被记录状态，假设B是A的子物体，当两个物体都将被记录变换组建时，子物体B应当只记录
  2. 降低REC记录帧数为30，原120（ReplayManager.cs）
 
 
