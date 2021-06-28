@@ -1,6 +1,7 @@
 ## DrivingTestSimulation
  Unity3D Project, subject two, simulated driving test
- 
+
+
 #### Introduction
  - Project Name: Simulated Driving 2
  - Start time: ‎October 26, 2020
@@ -8,7 +9,7 @@
  - Operating platform: Mobile terminal | PC
  - Unity3D version: [Unity 2019.4.13f1c1 (64-bit)](https://unity.cn/releases/full/2019)
  - Libraries used: iTween
- - External tools: FFmpeg
+ - Auxiliary tools: FFmpeg
  - Demo address: [Video](https://www.bilibili.com/video/bv1hK4y1Q79G)
  - Explain: The beginner’s project may not be perfect, but I hope this project will help you a bit.
 
