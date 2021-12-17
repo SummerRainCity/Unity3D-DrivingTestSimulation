@@ -52,3 +52,6 @@
 #### 未完善：
  1. 某些项目没有设置边界空气墙，玩家可以绕过项目到达终点（若假设玩家遵守规则，那么这条可以忽略）
  2. “曲线行驶”没有设定压线检测
+
+#### 基于此项目开发的《DES : Heavy Make》
+ - Demo address: [DES:Heavy Make](https://www.bilibili.com/video/BV1Sq4y1r7eK)
