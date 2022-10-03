@@ -3,15 +3,19 @@
 
 
 ### 【Introduction】
- - Project Name: Simulated Driving 2
- - Start time: ‎October 26, 2020
- - Author: Alan21 | XiaYuCheng（夏雨程）
- - Operating platform: Mobile terminal | PC
- - Unity3D version: [Unity 2019.4.13f1c1 (64-bit)](https://unity.cn/releases/full/2019)
- - Libraries used: iTween
- - Auxiliary tools: [FFmpeg](https://ffmpeg.org)(Using FFMPEG on audio clips only, you don't need to download it)
- - Demo address: [Video](https://www.bilibili.com/video/bv1hK4y1Q79G)
- - Explain: The beginner’s project may not be perfect, but I hope this project will help you a bit.
+1. Project Name: Simulated Driving 2
+2. Start time: ‎October 26, 2020
+3. Author: Alan21 | XiaYuCheng（夏雨程）
+4. Operating platform: Mobile terminal | PC
+5. Running equipment(Test.Apk)：
+   - HUAWEI Nova4e(Android)-ok
+   - HUAWEI P50 PRO(Android)-ok
+   - Galaxy S7(Android)-ok
+6. Unity3D version: [Unity 2019.4.13f1c1 (64-bit)](https://unity.cn/releases/full/2019)
+7. Libraries used: iTween
+8. Auxiliary tools: [FFmpeg](https://ffmpeg.org)(Using FFMPEG on audio clips only, you don't need to download it)
+9. Demo address: [Video](https://www.bilibili.com/video/bv1hK4y1Q79G)
+10. Explain: The beginner’s project may not be perfect, but I hope this project will help you a bit.
 
 
 ### 【更新信息】
