@@ -65,9 +65,9 @@
 ```c#
 /*
    参数p：检测轴基点（空物体）
-	参数axis：相对目标朝向轴，三个参数(Vector3.forward，Vector3.up，Vector3.right)
-	参数target：目标点（汽车）
-	返回值：返回距离差
+   参数axis：相对目标朝向轴，三个参数(Vector3.forward，Vector3.up，Vector3.right)
+   参数target：目标点（汽车）
+   返回值：返回距离差
 */
 public float GetAxisDisValue(Transform p, Vector3 axis, Transform target)
 {
