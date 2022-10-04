@@ -98,10 +98,12 @@ public float GetAxisDisValue(Transform p, Vector3 axis, Transform target)
  > Thanks for your attention.(｡･ω･｡)ﾉ♡
 <br>
 
- - 演示视频: [DES:Heavy Make](https://www.bilibili.com/video/BV1Sq4y1r7eK)
  - 使用UI框架[✓]-UI资源 [Complete Sci-Fi UI](https://assetstore.unity.com/packages/2d/gui/shift-complete-sci-fi-ui-157943)
  - REC记录与回放[✓]-录制回放插件 [Record and Play](https://assetstore.unity.com/packages/tools/animation/record-and-play-148294)
  - Touch触屏视觉操作[×] - 依然是多视觉切换，[搜索Touch](https://assetstore.unity.com/?q=touch&orderBy=1)
  - 增加大量载具 - 共16具载具
+ - 重构了汽车驱动核心代码[DrivingKernel.cs](https://github.com/SummerRainCity/Unity3D-DrivingTestSimulation/blob/master/Assets/Script/Car/kernelControl/DrivingKernel.cs)
+ - **演示视频：**[DES:Heavy Make](https://www.bilibili.com/video/BV1Sq4y1r7eK)
+
 
 ### —————END——————
