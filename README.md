@@ -96,8 +96,8 @@ public float GetAxisDisValue(Transform p, Vector3 axis, Transform target)
  > Thank you for your interest.
 
  - 演示视频: [DES:Heavy Make](https://www.bilibili.com/video/BV1Sq4y1r7eK)
- - 使用UI框架[✓]
- - REC记录与回放[✓]
+ - 使用UI框架[✓]-UI资源 Complete Sci-Fi UI 2.0.8
+ - REC记录与回放[✓]-录制回放插件 Record and Play 1.1
  - Touch触屏视觉操作[×] - 依然是多视觉切换
  - 增加大量载具
 
