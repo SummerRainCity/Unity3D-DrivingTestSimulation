@@ -92,7 +92,10 @@ public float GetAxisDisValue(Transform p, Vector3 axis, Transform target)
 ```
 
 ### 基于此项目(DTS)开发的《DES : Heavy Make》
- - Demo address: [DES:Heavy Make](https://www.bilibili.com/video/BV1Sq4y1r7eK)
+ > In order to avoid some bad situations, this project is not open source!
+ > Thank you for your interest.
+
+ - 演示视频: [DES:Heavy Make](https://www.bilibili.com/video/BV1Sq4y1r7eK)
  - 使用UI框架[✓]
  - REC记录与回放[✓]
  - Touch触屏视觉操作[×] - 依然是多视觉切换
