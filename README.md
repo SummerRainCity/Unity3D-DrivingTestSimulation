@@ -92,8 +92,10 @@ public float GetAxisDisValue(Transform p, Vector3 axis, Transform target)
 ```
 
 ### 基于此项目(DTS)开发的《DES : Heavy Make》
- > In order to avoid some bad situations, this project is not open source!
+ > `Tip：`<br>
+ > In order to avoid some trouble, DES:HeavyMake project is not open source！
  > Thank you for your interest.
+<br>
 
  - 演示视频: [DES:Heavy Make](https://www.bilibili.com/video/BV1Sq4y1r7eK)
  - 使用UI框架[✓]-UI资源 [Complete Sci-Fi UI](https://assetstore.unity.com/packages/2d/gui/shift-complete-sci-fi-ui-157943)
