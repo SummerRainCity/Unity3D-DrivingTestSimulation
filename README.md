@@ -94,7 +94,7 @@ public float GetAxisDisValue(Transform p, Vector3 axis, Transform target)
 ### 基于此项目(DTS)开发的《DES : Heavy Make》
  > `Tip：`<br>
  > In order to avoid some trouble.<br>
- > DES:HeavyMake project is not open source！<br>
+ > DES:HeavyMake project is not open source.<br>
  > Thank you for your interest.
 <br>
 
