@@ -101,6 +101,6 @@ public float GetAxisDisValue(Transform p, Vector3 axis, Transform target)
  - 使用UI框架[✓]-UI资源 [Complete Sci-Fi UI](https://assetstore.unity.com/packages/2d/gui/shift-complete-sci-fi-ui-157943)
  - REC记录与回放[✓]-录制回放插件 [Record and Play](https://assetstore.unity.com/packages/tools/animation/record-and-play-148294)
  - Touch触屏视觉操作[×] - 依然是多视觉切换，[搜索Touch](https://assetstore.unity.com/?q=touch&orderBy=1)
- - 增加大量载具
+ - 增加大量载具 - 共16具载具
 
 ### —————END——————
