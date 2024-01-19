@@ -90,6 +90,10 @@ public float GetAxisDisValue(Transform p, Vector3 axis, Transform target)
    return proDis;
 }
 ```
+### 移动端APK体验文件
+> 游戏Apk文件：<br>
+https://pan.baidu.com/wap/init?surl=oBYmMbij59ptno4zs8SHNw<br>
+验证码：iy44<br>
 
 ### 基于此项目(DTS)开发的《DES : Heavy Make》
  > `Tip：`<br>
