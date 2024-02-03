@@ -1,5 +1,3 @@
-# 【提示：2024年1月30日开始，APK测试文件暂时下架，后续将更新当前最新APK】
-
 ## DrivingTestSimulation
  Unity3D Project, subject two, simulated driving test
 
@@ -93,8 +91,8 @@ public float GetAxisDisValue(Transform p, Vector3 axis, Transform target)
 ```
 ### 移动端APK体验文件
 > 游戏Apk文件：<br>
-https://pan.baidu.com/wap/init?surl=oBYmMbij59ptno4zs8SHNw<br>
-验证码：iy44<br>
+链接：https://pan.baidu.com/s/1H6xX-S5G5dGVMrs4wVgFdA?pwd=alan <br>
+提取码：alan <br>
 
 ### 基于此项目(DTS)开发的《DES : Heavy Make》
  > `Tip：`<br>
