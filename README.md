@@ -16,6 +16,13 @@
 9. Demo address: [Video](https://www.bilibili.com/video/bv1hK4y1Q79G)
 10. Explain: The beginner’s project may not be perfect, but I hope this project will help you a bit.
 
+### 移动端APK演示文件
+> 游戏Apk文件：<br>
+链接：https://pan.baidu.com/s/1H6xX-S5G5dGVMrs4wVgFdA?pwd=alan <br>
+提取码：alan <br>
+
+> GitHub上的二进制Apk测试文件下载<br>
+> https://github.com/SummerRainCity/Unity3D-DrivingTestSimulation/releases/tag/ApkFile
 
 ### 【更新信息】
 1. 更新时间-2021-1-17
@@ -89,10 +96,6 @@ public float GetAxisDisValue(Transform p, Vector3 axis, Transform target)
    return proDis;
 }
 ```
-### 移动端APK体验文件
-> 游戏Apk文件：<br>
-链接：https://pan.baidu.com/s/1H6xX-S5G5dGVMrs4wVgFdA?pwd=alan <br>
-提取码：alan <br>
 
 ### 基于此项目(DTS)开发的《DES : Heavy Make》
  > `Tip：`<br>
