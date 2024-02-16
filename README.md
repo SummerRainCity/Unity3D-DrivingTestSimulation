@@ -1,14 +1,19 @@
-## DrivingTestSimulation
+## 项目说明
+ > 该项目为开源项目，主要用于初学者学习，目前最新版本v1.6，加入了公共聊天室（用于测试）。<br>
+ > 最终的`apk | exe`文件仅用于展示浏览，其中不乏包含一些BUG，作者并未在任何平台发布该游戏！<br>
+ 
+### DrivingTestSimulation
  Unity3D Project, subject two, simulated driving test
 
 ### 【Introduction】
-1. Project Name: Simulated Driving 2
+1. Project Name: Simulated Driving 2 v1.6
 2. Start time: ‎October 26, 2020
 3. Author: Alan21 | XiaYuCheng（夏雨程）
 4. Operating platform: Mobile terminal | PC
-5. Running equipment(Test.Apk)：
+5. Running equipment(DrivSim_v1.6.Apk)：
    - HUAWEI Nova4e(Android)-ok
    - HUAWEI P50 PRO(Android)-ok
+   - HUAWEI Mate30 PRO(Android)-ok
    - Galaxy S7(Android)-ok
 6. Unity3D version: [Unity 2019.4.13f1c1 (64-bit)](https://unity.cn/releases/full/2019)
 7. Libraries used: iTween
