@@ -23,7 +23,7 @@
 
 ### 【APK演示文件】
 > 游戏Apk文件：<br>
-链接：https://pan.baidu.com/s/1H6xX-S5G5dGVMrs4wVgFdA?pwd=alan <br>
+链接：[https://pan.baidu.com/s/1H6xX-S5G5dGVMrs4wVgFdA?pwd=alan](https://pan.baidu.com/s/1bp39r5CxoE9ZiSU1b1-o3w?pwd=alan) <br>
 提取码：alan <br>
 
 > GitHub上的二进制Apk测试文件下载<br>
